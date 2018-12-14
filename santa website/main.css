@@ -1,0 +1,36 @@
+@charset "utf-8";
+#theader {
+	height: 300px;
+	width: 1500px;
+}
+#title {
+	width: 1000px;
+	font-size: 24px;
+	font-family: bilbo-swash-caps;
+	font-style: normal;
+	font-weight: 400;
+
+}
+#Inventory {
+	height: 600px;
+	font-style: normal;
+}
+#images {
+	width: 1000px;
+	height: 400px;
+}
+#title p {
+	width: 1000px;
+	height: 300px;
+}
+#pictures {
+	width: 1000px;
+	height: 200px;
+}
+#contact information {
+	/* [disabled]width: 1000px; */
+	/* [disabled]height: 200px; */
+}
+#contact information {
+	width: 1000px;
+}

@@ -1,0 +1,26 @@
+@charset "utf-8";
+#content #mainContent p {
+	margin-right: 25px;
+
+}
+#mainContent p img {
+	margin-right: 468px;
+}
+#mainContent p img {
+	margin-right: 402px;
+}
+#content #mainContent p {
+	margin-right: 49px;
+}
+#authorInfo h2 table {
+	margin-right: 185px;
+}
+#authorInfo h2 table {
+	margin-right: 94px;
+	font-size: 25px;
+	font-family: bilbo-swash-caps;
+	font-style: normal;
+	font-weight: 400;
+}
+#content #mainContent #authorInfo {
+}
